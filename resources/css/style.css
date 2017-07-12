@@ -1,14 +1,14 @@
-body{
+body {
   background-color: black;
   text-align: center;
 }
-.opener h1{
+h1.opener {
   font-family: Verdana;
   font-weight: Normal;
   font-size: 50px;
   color: white;
 }
-.dlink a{
+a.dlink {
   color: Aquamarine;
   font-size: 16px;
   text-decoration: underline;
