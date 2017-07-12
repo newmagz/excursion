@@ -3,10 +3,13 @@ body {
   text-align: center;
   font-family: Verdana;
 }
-h1.opener, h2.opener {
+h1.opener, h2 {
   font-weight: Normal;
   font-size: 50px;
   color: white;
+}
+h2.opener {
+  font-weight: 300;
 }
 p {
   color: gray;
