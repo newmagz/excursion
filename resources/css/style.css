@@ -2,7 +2,7 @@ body {
   background-color: black;
   text-align: center;
 }
-h1.opener {
+h1.opener, h2.opener {
   font-family: Verdana;
   font-weight: Normal;
   font-size: 50px;
@@ -12,4 +12,8 @@ a.dlink {
   color: Aquamarine;
   font-size: 16px;
   text-decoration: underline;
+}
+p.copyright {
+  text-align: right;
+  color: gray;
 }
