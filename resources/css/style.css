@@ -1,12 +1,16 @@
 body {
   background-color: black;
   text-align: center;
+  font-family: Verdana;
 }
 h1.opener, h2.opener {
-  font-family: Verdana;
   font-weight: Normal;
   font-size: 50px;
   color: white;
+}
+p {
+  color: gray;
+  font-size: 21px;
 }
 a.dlink {
   color: Aquamarine;
@@ -16,4 +20,12 @@ a.dlink {
 p.copyright {
   text-align: right;
   color: gray;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+video {
+  max-width: 100%;
+  height: auto;
 }
