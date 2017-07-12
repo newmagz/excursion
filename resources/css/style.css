@@ -1,0 +1,15 @@
+body{
+  background-color: black;
+  text-align:center;
+}
+.opener h1{
+  font-family: Veranda;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+.dlink a{
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
